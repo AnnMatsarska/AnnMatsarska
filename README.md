@@ -6,6 +6,9 @@
 
 - 🔭 I’m currently working on my pet projects.
 - 🌱 I’m currently learning TypeScript and React Native.
+- 💬 Upper-Intermediate in English, with some Polish language skills.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/anna-matsarska/)
 - ⚡ Fact:
-  Catch me dancing post-coding! With a diploma in choreography, I multitask burning both calories and bugs! 💃🔥
+  catch me dancing post-coding! With a diploma in choreography, I multitask burning both calories and bugs! 💃🔥
+
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=AnnMatsarska.AnnMatsarska&left_color=green&right_color=red)
