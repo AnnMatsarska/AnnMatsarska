@@ -13,4 +13,4 @@
 
 ### Let's collaborate and create something great! 🚀
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnnMatsarska&show=contribs,prs&theme=dark)
+![AnnMatsarska GitHub stats](https://github-readme-stats.vercel.app/api?username=AnnMatsarska&show=contribs,prs&theme=dark)
