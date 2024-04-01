@@ -1,6 +1,4 @@
-<h3 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi, I'm Ann!</h3>
-
-#
+<h2 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi, I'm Ann!</h2>
 
 ### I specialize in frontend development with HTML, CSS, JavaScript, and React.js, while also exploring Node.js for backend work.
 
