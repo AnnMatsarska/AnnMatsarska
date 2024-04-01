@@ -2,7 +2,7 @@
 
 #
 
-### I specialize in frontend development with HTML, CSS, JavaScript, and React.js, while also exploring Node.js for backend work. Let's collaborate and create something great! 🚀
+### I specialize in frontend development with HTML, CSS, JavaScript, and React.js, while also exploring Node.js for backend work.
 
 - 🔭 I’m currently working on my pet projects.
 - 🌱 I’m currently learning TypeScript and React Native.
@@ -11,4 +11,6 @@
 - ⚡ Fact:
   catch me dancing post-coding! With a diploma in choreography, I multitask burning both calories and bugs! 💃🔥
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=AnnMatsarska.AnnMatsarska&left_color=green&right_color=red)
+##
+
+### Let's collaborate and create something great! 🚀
