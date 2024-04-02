@@ -13,6 +13,4 @@
 
 ### Let's collaborate and create something great! 🚀
 
-### Let's collaborate and create something great! 🚀
-
 ![AnnMatsarska GitHub stats](https://github-readme-stats.vercel.app/api?username=AnnMatsarska&show=contribs,prs&theme=dark)
