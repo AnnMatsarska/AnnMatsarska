@@ -3,7 +3,7 @@
 ### I specialize in frontend development with HTML, CSS, JavaScript, and React.js, while also exploring Node.js for backend work.
 
 - 🔭 I’m currently working on my pet projects.
-- 🌱 I’m currently learning TypeScript and React Native.
+- 🌱 I’m currently learning TypeScript and Next.js.
 - 💬 Upper-Intermediate in English, with some Polish language skills.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/anna-matsarska/)
 - ⚡ Fact:
