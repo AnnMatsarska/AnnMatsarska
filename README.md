@@ -14,3 +14,5 @@
 ### Let's collaborate and create something great! 🚀
 
 ![AnnMatsarska GitHub stats](https://github-readme-stats.vercel.app/api?username=AnnMatsarska&show=contribs,prs&theme=dark)
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AnnMatsarska&layout=compact&theme=dark)
