@@ -13,7 +13,7 @@
 
 ### Let's collaborate and create something great! 🚀
 
-<div style="display: flex; flex-wrap: wrap;">
+<div style="display: flex;">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnnMatsarska&layout=compact&theme=dark" alt="Your GitHub stats" width="39%">
   <img src="https://github-readme-stats.vercel.app/api?username=AnnMatsarska&show=contribs,prs&theme=dark" alt="AnnMatsarska GitHub stats" width="49%">
  
