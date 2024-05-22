@@ -1,6 +1,6 @@
 <h2 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi, I'm Ann!</h2>
 
-### I specialize in frontend development with HTML, CSS, JavaScript, and React.js, while also exploring Node.js for backend work.
+### I specialize in fullstack development with HTML, CSS, JavaScript, and React.js, while also exploring Node.js for backend work.
 
 - 🔭 I’m currently working on my pet projects.
 - 🌱 I’m currently learning TypeScript, Next.js and React Native.
