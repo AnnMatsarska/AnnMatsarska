@@ -1,6 +1,6 @@
 <h2 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi, I'm Ann!</h2>
 
-### I specialize in fullstack development with HTML, CSS, TypeScript, and React.js, while also exploring Node.js for backend work.
+### I specialize in fullstack development with HTML, CSS, TypeScript and React.js, while also exploring Node.js for backend work.
 
 - 🔭 I’m currently studying PostgreSQL, GraphQL and Next.js.
 - 💬 Upper-Intermediate in English, with some Polish language skills.
