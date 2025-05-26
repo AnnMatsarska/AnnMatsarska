@@ -2,7 +2,7 @@
 
 ### I specialize in fullstack development with HTML, CSS, TypeScript and React.js, while also exploring Node.js for backend work.
 
-- 🔭 I’m currently studying PostgreSQL, GraphQL and Next.js.
+- 🔭 I’m currently studying PostgreSQL, GraphQL and Nest.js.
 - 💬 Upper-Intermediate in English, with some Polish language skills.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/anna-matsarska/)
 - ⚡ Fact:
